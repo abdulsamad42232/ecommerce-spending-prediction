@@ -60,5 +60,5 @@ Try advanced ML models (XGBoost, Neural Networks)
 Deploy as a web API
 
 📌 Connect with Me
-🔗 LinkedIn: [Your LinkedIn]
+🔗 LinkedIn: https://www.linkedin.com/in/abdul-samad-khan-15086a252/
 📧 Email: samad42232@gmail.com
